@@ -2,6 +2,8 @@ HI.
 
 I'm `marcofaggian`.
 
-Full-stack JS dev.
+Cloud Native Software Architect & Full-stack JS dev.
 
-CTO @ [welevel.academy](https://welevel.academy)
+Software Architect @ [Skadii](https://skadii.global) (Leitner)
+
+previously: CTO @ [welevel.academy](https://welevel.academy)
